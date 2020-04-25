@@ -1,6 +1,6 @@
 # Convert [`LedFx`] to exe
 
-## Convert by `auto-py-to-exe`
+## Convert by [`auto-py-to-exe`]
 
 1. Copy the [`XT.py`] file to the main [`LedFx`] folder and select it in __Script Location__
 
@@ -34,7 +34,8 @@ swresample-3.dll
 
 6. Join to dist folder and run `LedFx.exe` file (:
 
-<img src="https://raw.githubusercontent.com/xTCry/LedFx2exe/master/scrn1.jpg" alt="screenshot1" title="Example" width="50%">
+<img src="https://raw.githubusercontent.com/xTCry/LedFx2exe/master/scrn1.jpg" alt="screenshot1" title="Example" height="90%">
 
 [`LedFx`]: https://github.com/xTCry/LedFx
+[`auto-py-to-exe`]: https://pypi.org/project/auto-py-to-exe/
 [`XT.py`]: XT.py
